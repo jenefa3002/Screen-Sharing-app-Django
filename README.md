@@ -9,3 +9,4 @@ cd screenshare
 
 Create a new app:
 python manage.py startapp core
+It also need node.js for websocket installation process
